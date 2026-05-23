@@ -1,0 +1,76 @@
+aid: frankford-candy
+name: Frankford Candy
+description: >-
+  Frankford Candy & Chocolate Company is a privately held, family-owned
+  confectionery manufacturer headquartered in the Frankford neighborhood of
+  Philadelphia, Pennsylvania. Founded in 1947 by Russian immigrant Sam
+  Himmelstein, the company describes itself as the "#1 Marketer of Licensed
+  Confectionary in the United States," producing licensed novelty candy,
+  holiday plush, hot chocolate bombs, gummies, Valentine heart boxes, and
+  seasonal collectibles under partnerships with M&M's, Hershey, Pez, Oreo,
+  Sour Patch Kids, Peeps, Welch's, Jif, Kraft, Disney, Marvel, Netflix,
+  Nickelodeon, Minecraft, Super Mario, SpongeBob, Stitch, Care Bears, Elf on
+  the Shelf, Baskin-Robbins, Dunkin', KFC, and Smucker's. Frankford acquired
+  the Cap Candy and Wonder Ball lines from Hasbro and Nestlé in the 2000s
+  and is one of the largest producers of chocolate Easter rabbits in the
+  United States. This repository captures the publicly observable web
+  surface for Frankford Candy; the company exposes no public developer API,
+  portal, SDK, status page, or machine-readable artifacts.
+kind: contract
+position: Consuming
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Candy
+  - Chocolate
+  - Confectionery
+  - Consumer Packaged Goods
+  - Food
+  - Licensed Brands
+  - Novelty Candy
+  - Philadelphia
+  - Plush
+  - Private Company
+  - Seasonal
+created: '2026-05-23'
+modified: '2026-05-23'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/frankford-candy/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.frankfordcandy.com
+  - type: About
+    url: https://www.frankfordcandy.com/pages/about-us
+  - type: Contact
+    url: https://www.frankfordcandy.com/pages/contact
+  - type: Careers
+    url: https://www.frankfordcandy.com/pages/careers
+  - type: FAQ
+    url: https://www.frankfordcandy.com/pages/faqs
+  - type: PrivacyPolicy
+    url: https://www.frankfordcandy.com/policies/privacy-policy
+  - type: TermsOfService
+    url: https://www.frankfordcandy.com/policies/terms-of-service
+  - type: RefundPolicy
+    url: https://www.frankfordcandy.com/policies/refund-policy
+  - type: ShippingPolicy
+    url: https://www.frankfordcandy.com/policies/shipping-policy
+  - type: WhereToBuy
+    url: https://www.amazon.com/stores/Frankford/page/
+  - type: Facebook
+    url: https://www.facebook.com/FrankfordCandy
+  - type: Instagram
+    url: https://www.instagram.com/frankfordcandy/
+  - type: TikTok
+    url: https://www.tiktok.com/@frankfordcandy
+  - type: Twitter
+    url: https://twitter.com/FrankfordCandy
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/frankford-candy-&-chocolate
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Frankford_Candy_%26_Chocolate_Company
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
