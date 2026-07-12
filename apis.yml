@@ -39,6 +39,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/frankford-candy-domain-security.yml
   - type: Website
     url: https://www.frankfordcandy.com
   - type: About
@@ -71,6 +73,8 @@ common:
     url: https://www.linkedin.com/company/frankford-candy-&-chocolate
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Frankford_Candy_%26_Chocolate_Company
+  - url: https://www.frankfordcandy.com/blogs/sweet-news.atom
+    type: Blog
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
