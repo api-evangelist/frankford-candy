@@ -1,4 +1,4 @@
-# Frankford Candy (frankford-candy)
+# Frankford Candy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,62 +66,80 @@
 
 Frankford Candy & Chocolate Company is a privately held, family-owned confectionery manufacturer headquartered in the Frankford neighborhood of Philadelphia, Pennsylvania. Founded in 1947 by Russian immigrant Sam Himmelstein, the company describes itself as the "#1 Marketer of Licensed Confectionary in the United States," producing licensed novelty candy, holiday plush, hot chocolate bombs, gummies, Valentine heart boxes, and seasonal collectibles under partnerships with M&M's, Hershey, Pez, Oreo, Sour Patch Kids, Peeps, Welch's, Jif, Kraft, Disney, Marvel, Netflix, Nickelodeon, Minecraft, Super Mario, SpongeBob, Stitch, Care Bears, Elf on the Shelf, Baskin-Robbins, Dunkin', KFC, and Smucker's. Frankford acquired the Cap Candy and Wonder Ball lines from Hasbro and Nestlé in the 2000s and is one of the largest producers of chocolate Easter rabbits in the United States. This repository captures the publicly observable web surface for Frankford Candy; the company exposes no public developer API, portal, SDK, status page, or machine-readable artifacts.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/frankford-candy/refs/heads/main/apis.yml)
+**Areas:** Candy · Chocolate · Confectionery · Consumer Packaged Goods · Food · Licensed Brands · Novelty Candy · Philadelphia · Plush · Private Company · Seasonal
 
-## Scope
+## Frankford Candy on APIs.io
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Frankford Candy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/frankford-candy/](https://apis.io/providers/frankford-candy/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Candy
-- Chocolate
-- Confectionery
-- Consumer Packaged Goods
-- Food
-- Licensed Brands
-- Novelty Candy
-- Philadelphia
-- Plush
-- Private Company
-- Seasonal
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Frankford Candy Domain Security](https://apis.io/security/frankford-candy/frankford-candy-domain-security/)
 
-No public APIs have been documented. Frankford Candy is a private consumer-packaged-goods manufacturer; its public surface is a Shopify-style e-commerce site and licensed-product marketing pages, with no developer portal, OpenAPI spec, SDK, webhook documentation, status page, or changelog. There is also no public wholesale program at this time ("We are currently not taking on wholesale buyers at this time").
+## Where to find this API
 
-## Brand Licenses (selected)
-
-Baskin-Robbins, Care Bears, Claussen, Disney, Dunkin', Elf on the Shelf, Jif, KFC, Kraft, M&M's, Marvel, Minecraft, Netflix, Nickelodeon, Oreo, Peeps, Smucker's, Sour Patch Kids, SpongeBob, Stitch, Super Mario, Welch's.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.frankfordcandy.com)
-- [About](https://www.frankfordcandy.com/pages/about-us)
-- [Contact](https://www.frankfordcandy.com/pages/contact)
-- [Careers](https://www.frankfordcandy.com/pages/careers)
-- [FAQ](https://www.frankfordcandy.com/pages/faqs)
-- [PrivacyPolicy](https://www.frankfordcandy.com/policies/privacy-policy)
-- [TermsOfService](https://www.frankfordcandy.com/policies/terms-of-service)
-- [RefundPolicy](https://www.frankfordcandy.com/policies/refund-policy)
-- [ShippingPolicy](https://www.frankfordcandy.com/policies/shipping-policy)
-- [WhereToBuy](https://www.amazon.com/stores/Frankford/page/)
-- [Facebook](https://www.facebook.com/FrankfordCandy)
-- [Instagram](https://www.instagram.com/frankfordcandy/)
-- [TikTok](https://www.tiktok.com/@frankfordcandy)
-- [Twitter](https://twitter.com/FrankfordCandy)
-- [LinkedIn](https://www.linkedin.com/company/frankford-candy-&-chocolate)
-- [Wikipedia](https://en.wikipedia.org/wiki/Frankford_Candy_%26_Chocolate_Company)
+- [Blog](https://www.frankfordcandy.com/blogs/sweet-news.atom)
+- [Terms of service](https://www.frankfordcandy.com/policies/terms-of-service)
+- [Privacy policy](https://www.frankfordcandy.com/policies/privacy-policy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/frankford-candy/](https://apis.io/providers/frankford-candy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Frankford Candy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/frankford-candy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
